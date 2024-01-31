@@ -10,8 +10,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alahly7441" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alahly7441" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mahmoud aladwy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud aladwy" height="30" width="40" /></a>
-<a href="https://fb.com/mahmoud aladwy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoud aladwy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mahmoud-aladwy-888434287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud aladwy" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100003947021992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoud aladwy" height="30" width="40" /></a>
 <a href="https://instagram.com/aladwy740" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aladwy740" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/al3dwy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="al3dwy" height="30" width="40" /></a>
 </p>
